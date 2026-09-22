@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to edit a foreign key column in a Syncfusion Blazor Server DataGrid by rendering a ComboBox editor for the related lookup field. The implementation uses an order collection as the primary grid data source and an employee collection as the lookup source for the foreign key relationship. During editing, users can select employee values through a ComboBox while the grid preserves the corresponding employee identifier in the underlying data model. This approach improves usability by presenting descriptive values instead of requiring users to work directly with numeric foreign key values.
+This sample demonstrates how to edit a foreign key column in a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) by rendering a ComboBox editor for the related lookup field. The implementation uses an order collection as the primary grid data source and an employee collection as the lookup source for the foreign key relationship. During editing, users can select employee values through a ComboBox while the grid preserves the corresponding employee identifier in the underlying data model. This approach improves usability by presenting descriptive values instead of requiring users to work directly with numeric foreign key values.
 
 ## Key Features
 
